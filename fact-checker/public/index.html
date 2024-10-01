@@ -8,14 +8,39 @@
     <title>Fact Checker</title>
 </head>
 <body>
-    <h1>Fact Checker</h1>
-    <form id="fact-form">
-        <input type="text" id="fact" placeholder="Enter fact" required>
-        <input type="url" id="source" placeholder="Source link" required>
-        <button type="submit">Submit Fact</button>
-    </form>
-    <h2>Submitted Facts</h2>
-    <div id="facts-container"></div>
+    <div class="container">
+        <header>
+            <h1>📰 Fact Checker Platform</h1>
+            <p>Submit facts and vote on their authenticity!</p>
+        </header>
+
+        <!-- Fact submission form -->
+        <section class="fact-submission">
+            <h2>Submit a New Fact</h2>
+            <form id="fact-form">
+                <div class="input-group">
+                    <input type="text" id="fact" placeholder="Enter fact" required>
+                </div>
+                <div class="input-group">
+                    <input type="url" id="source" placeholder="Source link" required>
+                </div>
+                <button class="submit-btn" type="submit">Submit Fact</button>
+            </form>
+        </section>
+
+        <!-- Submitted facts section -->
+        <section class="fact-list">
+            <h2>Submitted Facts</h2>
+            <div id="facts-container">
+                <!-- Facts will be dynamically loaded here -->
+            </div>
+        </section>
+    </div>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Ahmed Tejan. Licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
+    </footer>
 
     <script src="script.js"></script>
 </body>
