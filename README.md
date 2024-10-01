@@ -18,18 +18,6 @@ A web-based platform where users can post facts or news, and others can vote on 
 - Express.js (for API handling)
 - JSON (for storing facts and votes)
 
-## Demo
-
-Check out the live demo here: (Add the link if deployed)
-
-## Screenshots
-
-### Fact Submission Page
-![Fact Submission Page](![Screenshot1](https://github.com/user-attachments/assets/0b66502d-4705-4c2c-8072-76fce136638b)
-)
-
-### Fact List and Voting Page
-![Fact List](screenshot2.png)
 
 ## Getting Started
 
