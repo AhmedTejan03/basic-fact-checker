@@ -1,0 +1,43 @@
+[
+    {
+      "fact": "The Eiffel Tower can be 15 cm taller during summer due to the expansion of iron in heat.",
+      "source": "https://www.snopes.com/fact-check/eiffel-tower-taller-summer/",
+      "votes": {
+        "true": 0,
+        "false": 0
+      }
+    },
+    {
+      "fact": "Humans share 60% of their DNA with bananas.",
+      "source": "https://www.factretriever.com/human-dna-facts",
+      "votes": {
+        "true": 0,
+        "false": 0
+      }
+    },
+    {
+      "fact": "The longest hiccuping spree lasted 68 years.",
+      "source": "https://www.thefactsite.com/longest-hiccup-spree/",
+      "votes": {
+        "true": 0,
+        "false": 0
+      }
+    },
+    {
+      "fact": "Bananas are classified as berries, but strawberries are not.",
+      "source": "https://www.factretriever.com/banana-berry-fact",
+      "votes": {
+        "true": 0,
+        "false": 0
+      }
+    },
+    {
+      "fact": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
+      "source": "https://www.snopes.com/fact-check/ancient-honey/",
+      "votes": {
+        "true": 0,
+        "false": 0
+      }
+    }
+  ]
+  
